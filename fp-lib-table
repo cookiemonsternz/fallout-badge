@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Seeed Studio XIAO Series Library") (type "KiCad") (uri "${KIPRJMOD}/lib/Seeed Studio XIAO Series Library") (options "") (descr ""))
+	(lib (name "speaker") (type "KiCad") (uri "${KIPRJMOD}/lib/speaker.pretty") (options "") (descr ""))
+	(lib (name "RK09K") (type "KiCad") (uri "${KIPRJMOD}/lib/RK09K") (options "") (descr ""))
+)
